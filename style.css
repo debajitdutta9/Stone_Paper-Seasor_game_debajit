@@ -7,8 +7,8 @@ body {
 }
 .game-body {
   border: 2px solid black;
-  width: 35vw;
-  height: 90vh;
+  width: 450px;
+  height: 550px;
   margin: auto;
   display: flex;
   flex-direction: column;
