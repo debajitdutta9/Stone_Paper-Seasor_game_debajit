@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+.game-body {
+  border: 2px solid black;
+  width: 35vw;
+  height: 90vh;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+button {
+  padding: 5px 15px;
+  border-radius: 15px;
+  margin: 5px;
+}
+.result {
+  margin: 15px auto;
+  width: 20vw;
+  height: 20vh;
+  border: 2px solid black;
+  padding: 25px;
+  border-radius: 15px;
+}
+.score {
+  height: 200px;
+  width: 400px;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin: 5px auto;
+}
+.btn {
+  width: 100px;
+}
